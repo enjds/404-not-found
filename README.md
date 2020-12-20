@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="assets/demo.gif"   width="400"  height="800" >
+<img src="assets/demo.gif"  height="600" >
 
 ### Built With
 
