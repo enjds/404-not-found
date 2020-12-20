@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="assets/demo.gif"  height="600" >
+<img src="assets/demo.gif"  height="500" >
 
 ### Built With
 
@@ -62,6 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- LinkedIn [your-website.com](https://{www.linkedin.com/in/enjds})
+- LinkedIn [Benjo Delos Santos](https://{www.linkedin.com/in/enjds})
 - GitHub [@enjds](https://{github.com/enjds})
-- Twitter [@enjds](https://{twitter.com/ds_enj})
+- Twitter [@ds_enj](https://{twitter.com/ds_enj})
